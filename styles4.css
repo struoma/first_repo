@@ -1,0 +1,212 @@
+#container{
+
+    width: 700px;
+    height: 100%;
+    margin: auto;
+    border: 1px solid gray;
+    
+    
+    }
+    
+    
+    #nav{
+        height: 80px;
+        background: black;
+        
+          
+    }
+    
+    #nav a{
+    
+        padding: 10px;
+        font-family: 'Roboto', sans-serif;
+        font-size: 2em;
+        text-decoration: none;
+        color: white;
+    }
+    #nav a:hover{
+    
+        color: blue;
+    }
+    
+    
+    .headabout{
+    
+        text-align: center;
+    }
+    
+    
+    #about{
+    
+    
+        height: 200px;
+        background: white;
+        margin-top: 130px;
+    }
+    
+    #work{
+    
+    
+        height: 300px;
+        background: white;
+        background-image: url("logo.png") ;
+       
+    }
+    
+    
+    #midban{
+    
+        height: 150px;
+        background: white;
+        text-align: center;
+    }
+    #para{
+    
+        display: inline;
+    }
+    
+    #jet{
+    
+        text-align: center;
+        font-family: 'Nunito Sans', sans-serif;
+        font-family: 'Permanent Marker', cursive;
+        font-family: 'Satisfy', cursive;
+        font-size: 4em;
+        color: brown;
+        
+       padding-left: 400px;
+       padding-top: 200px;
+      
+       
+    }
+    
+    #contact{
+    
+        height: 350px;
+        background: white;
+        padding: 20px;
+    }
+    
+    
+    
+    form{
+    
+        border: 2px dashed gray;
+        padding: 10px;
+       
+      
+    }
+    
+    #cont{
+    
+        font-family: 'Roboto', sans-serif;
+        font-size: 2em;
+       display: inline;
+    
+    }
+    
+   #footer{
+    width: 700px;
+    height: 50px;
+    background: black;
+    margin: auto;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Satisfy', cursive;
+   }
+    
+    #parafooter{
+    
+       text-align: center;
+       color: white;
+    }
+
+    #progreview{
+
+        height:500px;
+        background: url("resume2.jpg");
+       
+    }
+
+   
+
+    #revheader{
+        background: black;
+        height: 50px;
+    }
+#review{
+
+height: 250px;
+
+}
+    #firstreview{
+width: 200px;
+height: 200px;
+float: left;
+background: url("face1.png");
+margin: 10px;
+border-radius:100%;
+border: 1px dashed gray;
+    }
+
+    #secondreview{
+        width: 200px;
+        height: 200px;
+        float: left;
+        background: url("face3.png");
+        margin: 10px 10px 10px 25px;
+        border-radius:100%; 
+        border: 1px dashed gray;
+    }
+
+    #thirdreview{
+        width: 200px;
+        height: 200px;
+        float: right;
+        background:  url("face2.jpg");
+        margin: 10px;
+        border-radius:100%;
+        border: 1px dashed gray;
+
+    }
+
+    #bottomrev{
+
+
+        height: 100px;
+    }
+
+    #bottom1{
+
+        width: 200px;
+        height: 50px;  
+        float: left;
+        
+        margin: 10px;
+        text-align: center;
+    }
+
+    #bottom2{
+
+        width: 200px;
+        height: 50px;  
+        float: left;
+        margin: 10px 10px 10px 25px;
+        text-align: center; 
+    }
+
+    #bottom3{
+
+        width: 200px;
+        height: 50px;  
+        float: right;
+        margin: 10px;
+        text-align: center;
+    }
+
+
+    #revheader{
+
+        text-align: center;
+        color: white;
+    }

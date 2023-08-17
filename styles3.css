@@ -1,0 +1,150 @@
+#container{
+
+width: 700px;
+height: 100%;
+background: black; 
+margin: auto;
+border: 1px solid gray;
+
+
+}
+
+
+#nav{
+    height: 80px;
+    background: black;
+    display: inline;
+    
+    
+}
+
+#nav a{
+
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+    text-decoration: none;
+    color: white;
+}
+#nav a:hover{
+
+    color: blue;
+}
+
+
+.headabout{
+
+    text-align: center;
+}
+#home{
+
+
+    height: 100px;
+    background: white;
+       color: white;
+}
+
+#workright{
+    float: left;
+    color: blue;
+    width: 300px;
+   
+    height: 200px;
+}
+
+
+
+#workleft{
+    float: left;
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 25px;
+}
+
+#about{
+
+
+    height: 200px;
+    background: white;
+    margin-top: 130px;
+}
+
+#work{
+
+
+    height: 300px;
+    background: white;
+    background-image: url("logo.png") ;
+   
+}
+
+
+#midban{
+
+    height: 150px;
+    background: white;
+    text-align: center;
+}
+#para{
+
+    display: inline;
+}
+
+#jet{
+
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Satisfy', cursive;
+    font-size: 4em;
+    color: brown;
+    
+   padding-left: 400px;
+   padding-top: 200px;
+  
+   
+}
+
+#contact{
+
+    height: 350px;
+    background: white;
+    padding: 20px;
+}
+
+
+
+form{
+
+    border: 2px dashed gray;
+    padding: 10px;
+   
+  
+}
+
+#cont{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+   display: inline;
+
+}
+
+#footer{
+  color: white;
+    height: 50px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    background: black;
+ 
+    
+}
+
+#parafooter{
+
+    display: inline;
+}
